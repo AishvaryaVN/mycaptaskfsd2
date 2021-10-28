@@ -1,0 +1,14 @@
+<div id="myDIV" class="header">
+  <h2>MY TO-DO LIST:))</h2>
+  <div class="input-group mb-3">
+  <input type="text" class="form-control" placeholder="what should be done?!" aria-label="Recipient's username" aria-describedby="button-addon2">
+  <button class="btn btn-outline-secondary" type="button" id="button-addon2">Add</button>
+</div>
+<ul id="myUL">
+  <li>Go for a walk</li>
+  <li class="checked">go to bank</li>
+  <li>Meet Krishna</li>
+  <li>complete mycap tasks</li>
+  <li>groceries</li>
+  <li>complete essay</li>
+</ul>
